@@ -1,0 +1,5 @@
+crossorigin-The crossorigin HTML attribute configures how elements 
+(like <img>, <script>, <link>) handle 
+cross-origin requests, allowing browser access to resources from third-party domains.
+
+npm- package manager for the javascript.
