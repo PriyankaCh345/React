@@ -1,5 +1,23 @@
-crossorigin-The crossorigin HTML attribute configures how elements 
-(like <img>, <script>, <link>) handle 
+crossorigin-The crossorigin HTML attribute configures how elements
+(like <img>, <script>, <link>) handle
 cross-origin requests, allowing browser access to resources from third-party domains.
 
 npm- package manager for the javascript.
+#parcel
+-dev build
+-local server
+-hmr(hot module replacement)
+-File watching algorithm- written in c++
+-caching- faster builds
+-Image Optimization
+-Minification
+-Bundling
+-Compressing
+-consistent hnadling
+-code spiltting
+-differetial bundling older browser
+-diagonistics
+-error handling
+-HTTPs
+-Tree Shaking-remove unused code
+-Different development and production bundles
